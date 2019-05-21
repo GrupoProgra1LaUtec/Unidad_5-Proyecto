@@ -1,0 +1,13 @@
+C:\Users\Andre\Desktop\PROYECTO\Interfaz\Interfaz\bin\Debug\Interfaz.exe.config
+C:\Users\Andre\Desktop\PROYECTO\Interfaz\Interfaz\bin\Debug\Interfaz.exe
+C:\Users\Andre\Desktop\PROYECTO\Interfaz\Interfaz\bin\Debug\Interfaz.pdb
+C:\Users\Andre\Desktop\PROYECTO\Interfaz\Interfaz\obj\Debug\Interfaz.csprojAssemblyReference.cache
+C:\Users\Andre\Desktop\PROYECTO\Interfaz\Interfaz\obj\Debug\Interfaz.Form1.resources
+C:\Users\Andre\Desktop\PROYECTO\Interfaz\Interfaz\obj\Debug\Interfaz.Properties.Resources.resources
+C:\Users\Andre\Desktop\PROYECTO\Interfaz\Interfaz\obj\Debug\Interfaz.csproj.GenerateResource.cache
+C:\Users\Andre\Desktop\PROYECTO\Interfaz\Interfaz\obj\Debug\Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Desktop\PROYECTO\Interfaz\Interfaz\obj\Debug\Interfaz.exe
+C:\Users\Andre\Desktop\PROYECTO\Interfaz\Interfaz\obj\Debug\Interfaz.pdb
+C:\Users\Andre\Desktop\PROYECTO\Interfaz\Interfaz\obj\Debug\Interfaz.Form2.resources
+C:\Users\Andre\Desktop\PROYECTO\Interfaz\Interfaz\obj\Debug\Interfaz.Form3.resources
+C:\Users\Andre\Desktop\PROYECTO\Interfaz\Interfaz\obj\Debug\Interfaz.Form4.resources
